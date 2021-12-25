@@ -2,7 +2,7 @@
  Implemented Parts of speech tagging for sentences using Naive-Baye's Classifier, HMM-Viterbi and MCMC using Gibb's Sampling. 
 
 
-### Part 1: Part-of-speech tagging
+### Part-of-speech tagging
 
 - A basic problems in Natural Language Processing is part-of-speech tagging, in which the goal is to mark every word in a sentence with its part of speech (noun, verb, adjective, etc.)
 - Implementing Parts of speech Tagging in three methods:
